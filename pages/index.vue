@@ -1,5 +1,8 @@
 <template lang="pug">
-Logo
+.flex
+  div(class="w-1/2")
+    div login form
+  SpotifyWeb
 </template>
 
 <script>

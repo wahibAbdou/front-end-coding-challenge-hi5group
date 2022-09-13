@@ -21,7 +21,7 @@ export default {
     },
     classes: {
       type: String,
-      default: "w-3",
+      default: "w-40",
     },
   },
 };
