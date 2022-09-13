@@ -10,7 +10,7 @@ export default {
 	
 <style scoped>
 .spotify-web {
-	@apply hidden lg:block lg:w-1/2 lg:h-screen lg:bg-spotify-web lg:bg-cover lg:bg-right-top lg:bg-no-repeat;
+	@apply hidden lg:block lg:w-1/3 lg:h-screen lg:bg-spotify-web lg:bg-cover lg:bg-left-top lg:bg-no-repeat;
 }
 </style>
 	
