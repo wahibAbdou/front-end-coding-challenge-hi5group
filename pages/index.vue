@@ -1,9 +1,9 @@
 <template lang="pug">
-h1 Hello World!
+Logo
 </template>
 
 <script>
 export default {
-	name: 'IndexPage',
+  name: "IndexPage",
 };
 </script>
