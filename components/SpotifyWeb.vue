@@ -1,5 +1,5 @@
 <template lang="pug">
-	.spotify-web
+.spotify-web
 </template>
 	
 <script>
