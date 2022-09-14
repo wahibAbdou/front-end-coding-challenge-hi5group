@@ -7,12 +7,16 @@
 
 <script>
 export default {
-	name: 'HeaderComponent',
+  name: "HeaderComponent",
 };
 </script>
 
 <style scoped>
 .header {
-	@apply w-11/12 lg:w-5/6 mx-auto mt-24 flex items-center justify-between;
+  @apply w-11/12 lg:w-5/6 mx-auto mt-11 lg:mt-24 flex items-center justify-between;
+}
+
+button {
+  @apply hidden lg:flex;
 }
 </style>

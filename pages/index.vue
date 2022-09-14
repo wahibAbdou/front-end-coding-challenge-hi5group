@@ -2,6 +2,8 @@
 .flex
   .auth
     Header
+    Content
+    Footer
   SpotifyWeb
 
 </template>
