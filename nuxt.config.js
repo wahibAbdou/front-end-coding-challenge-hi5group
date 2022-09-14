@@ -21,11 +21,7 @@ export default {
   css: [],
   plugins: [],
   components: true,
-  buildModules: [
-    '@nuxtjs/eslint-module',
-    '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-fonts',
-  ],
+  buildModules: ['@nuxtjs/eslint-module', '@nuxtjs/tailwindcss'],
   modules: [],
   build: {},
 }
