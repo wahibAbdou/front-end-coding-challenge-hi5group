@@ -5,8 +5,5 @@ module.exports = {
         'spotify-web': "url('~/assets/spotify-web.jpg')",
       },
     },
-    fontFamily: {
-      comfortaa: ['Comfortaa'],
-    },
   },
 }
