@@ -1,21 +1,10 @@
 <template lang="pug">
-.flex
-  .auth
-    Header
-    Content
-    Footer
-  SpotifyWeb
-
+Content
 </template>
 
 <script>
 export default {
   name: "IndexPage",
+  layout: "auth",
 };
 </script>
-
-<style scoped>
-.auth {
-  @apply flex-1;
-}
-</style>
