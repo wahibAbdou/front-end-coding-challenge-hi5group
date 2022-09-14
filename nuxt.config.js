@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'front-end-coding-challenge-hi5group',
+    title: 'Spotify Web, Music for everyone!',
     htmlAttrs: {
       lang: 'en',
     },
@@ -11,7 +11,13 @@ export default {
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [
+      {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: 'https://www.scdn.co/i/_global/favicon.png',
+      },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
